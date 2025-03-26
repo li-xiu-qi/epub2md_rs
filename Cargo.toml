@@ -1,0 +1,7 @@
+[package]
+name = "epub2md_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+html2md = "0.2"
